@@ -1,0 +1,1 @@
+for loop, for in, for of and resume in json formet
